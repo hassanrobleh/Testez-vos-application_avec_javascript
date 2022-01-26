@@ -18,7 +18,7 @@ describe('Router Integration Test Suites', () => {
             <div id="root"></div>
         `
 
-        await router()
+        
 
         expect(
             getByTestId(document.body, 'sign-in-form-title')
