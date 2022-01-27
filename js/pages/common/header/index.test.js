@@ -6,7 +6,7 @@ describe('Header Snapshot Test Suites', () => {
 "
             <header class=\\"main-header\\">
                 <h1 class=\\"main-header-title\\">
-                    <a href=\\"#/home\\">Façadia</a>
+                <a href=\\"#/home\\">Façadia</a>
                 </h1>
                 <ul class=\\"main-nav\\">
                     <li class=\\"main-nav-item\\">
