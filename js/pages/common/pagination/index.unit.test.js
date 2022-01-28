@@ -17,6 +17,6 @@ describe('Pagination Unit Test Suites', () => {
     ))
 
     it('should return 5', () => (
-        expect(Pagination.getNumberOfPages(34)).toEqual(5)
+        expect(Pagination.getNumberOfPages(34)).toEqual(10)
     ))
 })
